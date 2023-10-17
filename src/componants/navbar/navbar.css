@@ -1,0 +1,30 @@
+
+/* src/App.css or your custom CSS file */
+.liLinks {
+    font-size: 18px !important;
+    color: white !important;
+    padding: 0px 20px 0px 20px !important;
+    text-decoration: none; /* Remove underlines or adjust as needed */
+    transition: color 0.3s ease-in-out ,border-radius  ease-in-out;
+    border-radius: 20px; 
+  }
+  
+  .liLinks:hover {
+    color: white; /* Change this to your desired hover text color */ 
+    background-color: blue
+   
+  }
+  
+  .logo{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+  }
+
+  .backgrond{
+    background-color: #0b2744 !important;
+  }
+  .togglebtn{
+    background-color: white;
+    color: white;
+  }

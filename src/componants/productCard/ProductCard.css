@@ -1,0 +1,13 @@
+/* App.css */
+.card-container {
+    display: flex;
+
+  /* Center-align the cards horizontally */
+     /* Negative margin to offset the Card's margin */
+  }
+  
+  .card {
+    flex: 0 0 calc(33.33% - 30px); /* Card width with 15px margin on each side */
+    margin: 15px; /* Margin around each card */
+  }
+  

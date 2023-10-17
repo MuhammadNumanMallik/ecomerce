@@ -1,0 +1,4 @@
+.img-responsive {
+    width: 100vw !important; /* Make the image scale down to fit its parent container */
+    height: 70vh; /* Maintain the image's aspect ratio */
+  }
